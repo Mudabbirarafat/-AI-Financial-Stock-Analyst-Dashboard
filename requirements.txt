@@ -1,0 +1,12 @@
+streamlit
+yfinance
+requests
+pandas
+numpy
+scikit-learn
+crewai==0.28.0
+pydantic==2.6.4
+litellm
+langchain
+langchain-community
+langchain-groq
